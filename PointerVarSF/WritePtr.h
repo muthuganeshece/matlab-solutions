@@ -1,0 +1,1 @@
+void WritePtr(unsigned char *PtrVar);
